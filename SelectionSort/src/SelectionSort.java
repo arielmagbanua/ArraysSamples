@@ -11,7 +11,7 @@ public class SelectionSort {
 
     public static void main(String[] args) {
 
-    	int intArray [] = new int[]{8,5,2,9,6,3};
+    	int intArray [] = new int[]{2,2,3,9,5,6,9};
 
 		System.out.print("ORIGINAL: ");
 		for(int i=0;i<intArray.length;i++){

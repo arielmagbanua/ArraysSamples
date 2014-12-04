@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run/>
+			<run>InsertionSort</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>

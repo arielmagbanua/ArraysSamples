@@ -2,7 +2,7 @@
 
 <workspace_user>
 	<active_project>
-		<label>InsertionSort</label>
+		<label>SortingString</label>
 	</active_project>
 	<projects>
 		<project>
@@ -16,10 +16,6 @@
 		<project>
 			<label>InsertionSort</label>
 			<showfiles>false</showfiles>
-			<folderitem>
-				<path>InsertionSort\classes</path>
-				<dir>classes</dir>
-			</folderitem>
 			<folderitem>
 				<path>InsertionSort\src</path>
 				<dir>src</dir>
@@ -50,6 +46,18 @@
 			</folderitem>
 		</project>
 		<project>
+			<label>SortingString</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>SortingString\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>SortingString\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
 			<label>TwoDimensionalArray</label>
 			<showfiles>false</showfiles>
 			<folderitem>
@@ -63,7 +71,7 @@
 			<path>src\ArraysSample.java</path>
 			<source>true</source>
 			<index>0</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>ArrayApp\src\ArrayApp.java</path>
@@ -93,6 +101,12 @@
 			<path>SelectionSort\src\SelectionSort.java</path>
 			<source>true</source>
 			<index>5</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>InsertionSort\src\InsertionSort.java</path>
+			<source>true</source>
+			<index>6</index>
 			<active>false</active>
 		</docitem>
 	</open_files>

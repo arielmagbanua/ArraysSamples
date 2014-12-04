@@ -3,7 +3,7 @@
 <workspace>
 	<settings>
 		<label>ArraysSample</label>
-		<id>246</id>
+		<id>279</id>
 		<version>0</version>
 	</settings>
 	<users>
@@ -26,6 +26,9 @@
 		</project>
 		<project>
 			<path>SelectionSort\SelectionSort.jcp</path>
+		</project>
+		<project>
+			<path>SortingString\SortingString.jcp</path>
 		</project>
 		<project>
 			<path>TwoDimensionalArray\TwoDimensionalArray.jcp</path>
