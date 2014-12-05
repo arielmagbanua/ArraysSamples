@@ -38,7 +38,7 @@ public class SortingString {
 
     	//print the original array
     	System.out.println("-----------NAMES----------");
-    	System.out.print();
+    	System.out.println();
     	for(int i=0;i<length;i++){
 			System.out.println(names1[i]);
     	}
